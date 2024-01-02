@@ -1,0 +1,6 @@
+vara
+email: me@gmail.com
+address:
+ 7c/315
+ mysore
+ Karnataka
